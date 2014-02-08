@@ -75,7 +75,8 @@ cursor:pointer;
 	#container{
 		width:100%;
 		height:100%;
-		margin-right:10px;
+		margin-left:auto;
+		margin-right:auto;
 		
 		
 		
@@ -268,7 +269,7 @@ cursor:pointer;
   */
   #box1{
 			width:250px;
-			height:400px;
+			height:300px;
 			background-color:#149fc6;
 			margin-left:20px;
 			margin-right:20px;
@@ -279,6 +280,7 @@ cursor:pointer;
 			cursor:pointer;
 			float:left;
 			margin-right:10px;
+			top:50px;
 			
 		
 			
@@ -331,14 +333,28 @@ cursor:pointer;
 					
 					}
 					
-					#box1 .icon{
+				#box1 .icon{
 						background:url(i/box1.png);
-						width:150px;
-						height:150px;
+						width:60px;
+						height:60px;
 						margin-left:auto;
 						margin-right:auto;
-						
+						margin-top:10px;
+						margin-bottom:10px;
+						border-radius:10px;
 						}
+						
+						#box1 .icon1{
+						background:url(i/box2.png);
+						width:60px;
+						height:60px;
+						margin-left:auto;
+						margin-right:auto;
+						margin-top:10px;
+						margin-bottom:10px;
+						border-radius:10px;
+						}
+						
 						#box1 .go{
 							width:20px;
 							height:20px;
