@@ -75,9 +75,14 @@ cursor:pointer;
 	#container{
 		width:50%;
 		height:100%;
+
 		margin-left:150px;
 	
 		display:block;
+
+		margin-left:auto;
+		margin-right:auto;
+
 		
 		
 		
@@ -100,6 +105,7 @@ cursor:pointer;
 			margin-right:10px;
 			top:50px;
 			margin-bottom:20px;
+			text-decoration:none;
 			
 			
 			
@@ -332,6 +338,7 @@ cursor:pointer;
 			float:left;
 			margin-right:10px;
 			top:50px;
+			text-decoration:none;
 			
 		
 			
@@ -385,7 +392,10 @@ cursor:pointer;
 					}
 					
 				#box1 .icon{
+
 						background:url(../i/box1.png);
+
+						
 						width:60px;
 						height:60px;
 						margin-left:auto;
@@ -396,7 +406,10 @@ cursor:pointer;
 						}
 						
 						#box1 .icon1{
+
 						background:url(../i/box2.png);
+					
+
 						width:60px;
 						height:60px;
 						margin-left:auto;
@@ -469,6 +482,7 @@ cursor:pointer;
 			margin-right:5px;
 			top:40px;
 			margin-bottom:10px;
+			text-decoration:none;
 			
 			
 			
