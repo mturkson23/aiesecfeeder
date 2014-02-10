@@ -1,0 +1,219 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 5444858
+RIM-MIDlet-Icon-2-1: ____HOVER_ICON_resources/icon_hover.png,focused
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+RIM-COD-Size: 68704
+RIM-COD-URL-66: AIESEC-66.cod
+RIM-COD-URL-65: AIESEC-65.cod
+RIM-COD-URL-64: AIESEC-64.cod
+RIM-COD-URL-63: AIESEC-63.cod
+RIM-COD-URL-62: AIESEC-62.cod
+RIM-COD-URL-61: AIESEC-61.cod
+RIM-COD-URL-60: AIESEC-60.cod
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: AIESEC
+RIM-COD-Size-66: 62484
+RIM-COD-Size-65: 30216
+RIM-COD-Size-64: 56512
+RIM-COD-URL-59: AIESEC-59.cod
+RIM-COD-Size-63: 51044
+RIM-COD-URL-58: AIESEC-58.cod
+RIM-COD-Size-62: 51040
+RIM-COD-URL-57: AIESEC-57.cod
+RIM-COD-Size-61: 57824
+RIM-COD-URL-56: AIESEC-56.cod
+RIM-COD-Size-60: 53820
+RIM-COD-URL-55: AIESEC-55.cod
+RIM-COD-URL-54: AIESEC-54.cod
+RIM-COD-URL-53: AIESEC-53.cod
+RIM-COD-URL-52: AIESEC-52.cod
+RIM-COD-URL-51: AIESEC-51.cod
+RIM-COD-URL-50: AIESEC-50.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-Size-59: 51088
+RIM-COD-Size-58: 52944
+RIM-COD-Size-57: 51076
+RIM-COD-Size-56: 51060
+RIM-COD-URL-9: AIESEC-9.cod
+RIM-COD-Size-55: 56692
+RIM-COD-URL-8: AIESEC-8.cod
+RIM-COD-Size-54: 51056
+RIM-COD-URL-49: AIESEC-49.cod
+RIM-COD-URL-7: AIESEC-7.cod
+RIM-COD-Size-53: 51504
+RIM-COD-URL-48: AIESEC-48.cod
+RIM-COD-URL-6: AIESEC-6.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-52: 58320
+RIM-COD-URL-47: AIESEC-47.cod
+RIM-COD-URL-5: AIESEC-5.cod
+RIM-COD-Size-51: 50824
+RIM-COD-URL-46: AIESEC-46.cod
+RIM-COD-URL-4: AIESEC-4.cod
+RIM-COD-Size-50: 50824
+RIM-COD-URL-45: AIESEC-45.cod
+RIM-COD-URL-3: AIESEC-3.cod
+RIM-COD-URL-44: AIESEC-44.cod
+RIM-COD-URL-2: AIESEC-2.cod
+RIM-COD-URL-43: AIESEC-43.cod
+RIM-COD-URL-1: AIESEC-1.cod
+RIM-COD-URL-42: AIESEC-42.cod
+RIM-COD-URL-41: AIESEC-41.cod
+RIM-COD-Size-9: 57872
+RIM-COD-URL-40: AIESEC-40.cod
+RIM-COD-Size-8: 63572
+RIM-COD-Size-7: 69324
+RIM-COD-Size-6: 68132
+RIM-COD-Size-5: 70876
+RIM-COD-Size-4: 58620
+RIM-COD-Size-3: 66264
+RIM-COD-Size-2: 76572
+RIM-COD-Size-1: 68640
+RIM-COD-Size-49: 50824
+RIM-COD-Size-48: 50824
+RIM-COD-Size-47: 60560
+RIM-COD-Size-46: 50824
+RIM-COD-Size-45: 50824
+RIM-COD-Size-44: 50824
+RIM-COD-URL-39: AIESEC-39.cod
+RIM-COD-Size-43: 50824
+RIM-COD-URL-38: AIESEC-38.cod
+RIM-COD-Size-42: 50824
+RIM-COD-URL-37: AIESEC-37.cod
+RIM-COD-URL-36: AIESEC-36.cod
+RIM-COD-Size-41: 50824
+RIM-COD-URL-35: AIESEC-35.cod
+RIM-COD-Size-40: 50824
+RIM-COD-URL-34: AIESEC-34.cod
+RIM-COD-URL-33: AIESEC-33.cod
+RIM-COD-URL-32: AIESEC-32.cod
+RIM-COD-URL-31: AIESEC-31.cod
+RIM-COD-URL-30: AIESEC-30.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_phone,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_locationapi
+MIDlet-Vendor: isoftgh
+RIM-COD-Size-39: 50824
+RIM-COD-Size-38: 50824
+RIM-COD-Size-37: 50820
+RIM-COD-Size-36: 50820
+RIM-COD-Size-35: 55912
+RIM-COD-URL-29: AIESEC-29.cod
+RIM-COD-Size-34: 50544
+RIM-COD-URL-28: AIESEC-28.cod
+RIM-COD-Size-33: 50544
+RIM-COD-URL-27: AIESEC-27.cod
+RIM-COD-Size-32: 50544
+RIM-COD-URL-26: AIESEC-26.cod
+RIM-COD-Size-31: 50544
+RIM-COD-URL-25: AIESEC-25.cod
+RIM-COD-Size-30: 50540
+RIM-COD-URL-24: AIESEC-24.cod
+RIM-COD-URL-23: AIESEC-23.cod
+RIM-COD-URL-22: AIESEC-22.cod
+RIM-COD-URL-21: AIESEC-21.cod
+RIM-COD-URL-20: AIESEC-20.cod
+RIM-COD-URL: AIESEC.cod
+MIDlet-Description: AIESEC social networks live feed app...
+RIM-COD-Module-Name: AIESEC
+RIM-COD-Size-29: 50540
+RIM-COD-Size-28: 55700
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon_hover.png,focused
+RIM-COD-Size-27: 50564
+RIM-COD-Size-26: 58160
+RIM-COD-Size-25: 50564
+RIM-COD-URL-19: AIESEC-19.cod
+RIM-COD-Size-24: 50564
+RIM-COD-URL-18: AIESEC-18.cod
+RIM-COD-Size-23: 50564
+RIM-COD-URL-17: AIESEC-17.cod
+RIM-COD-Size-22: 50544
+RIM-COD-URL-16: AIESEC-16.cod
+RIM-COD-Size-21: 50540
+RIM-COD-URL-15: AIESEC-15.cod
+RIM-COD-Size-20: 46492
+RIM-COD-URL-14: AIESEC-14.cod
+RIM-COD-URL-13: AIESEC-13.cod
+RIM-COD-URL-12: AIESEC-12.cod
+RIM-COD-URL-11: AIESEC-11.cod
+RIM-COD-URL-10: AIESEC-10.cod
+RIM-COD-SHA1-66: cb 14 0a aa 78 af cf 8e 8c 68 15 9a db 1b 37 53 06 c0 87 d8
+RIM-COD-SHA1-65: cf ea 17 a4 54 93 e7 08 10 69 eb 90 c2 a7 21 7f f0 44 95 cb
+RIM-COD-SHA1-64: de 88 98 f7 6d 1d e6 1c 99 2f ac 9e d8 14 01 3f 92 35 e1 00
+RIM-COD-SHA1-63: 7c 89 6c 87 17 f3 5e 3e b0 14 79 01 0a 16 a7 d9 67 b5 db 10
+RIM-COD-SHA1-62: f9 ee 9f 4e 5f af e3 f3 84 32 07 58 b4 0f 6f 5d b1 c4 ca b1
+RIM-COD-SHA1-61: 0f aa 1e 5b d1 7a b9 81 1e 03 7d ce 27 17 cb fc ae a1 c3 d1
+RIM-COD-SHA1-60: 69 a8 b3 3d 64 41 87 14 ac 34 71 76 ba 3e e0 0f 78 d3 26 e1
+RIM-COD-Size-19: 55988
+RIM-COD-Size-18: 54624
+RIM-COD-Size-17: 60824
+RIM-COD-Size-16: 37144
+RIM-COD-Size-15: 39328
+RIM-COD-Size-14: 60416
+RIM-COD-Size-13: 51720
+RIM-COD-Size-12: 57796
+RIM-COD-Size-11: 55268
+RIM-COD-Size-10: 47148
+RIM-COD-SHA1-59: 42 94 99 32 da 67 6c e8 31 98 dd b6 98 9f 4f 5c 8a 41 23 6b
+RIM-COD-SHA1-58: 85 de 17 e4 67 68 27 bf c6 7b 9a 98 e7 d8 cf f7 23 d5 e6 e3
+RIM-COD-SHA1-57: 85 9a 79 7a af 79 bd 1a c2 cf 86 a6 b0 33 51 62 1d 87 c5 6b
+RIM-COD-SHA1-56: f0 73 ee cc 75 87 ab b4 92 f3 ad a9 2e e5 1f 69 5a 75 eb ee
+RIM-COD-SHA1-55: 14 2b 20 2a 05 e4 05 2b 51 d7 df 27 a7 d4 79 70 4c 51 fa d4
+RIM-COD-SHA1-54: 5b 25 2f 38 3b 50 75 07 7f f4 07 c0 4f f9 e7 bc aa c0 81 d2
+RIM-COD-SHA1-53: 31 4a 3e f5 b4 a5 42 46 85 a4 95 ac a4 9c e2 8b 4a 70 44 8d
+MIDlet-1: AIESEC,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1-52: fd cf 33 f0 9d 64 de 60 35 4e d3 a9 0e bb 02 ed 3d 15 a8 4d
+RIM-COD-SHA1-51: 07 7c 1d e9 f4 6f a5 97 e5 d2 98 11 6d 94 45 e5 40 c8 f5 5e
+RIM-COD-SHA1-50: 66 a1 9b 82 7f ca 98 79 5f b2 dd 8b c2 48 e4 18 8e 93 46 14
+RIM-COD-SHA1: 06 52 e3 82 f9 77 ab d9 bb 04 85 fd 6e dc 58 ab 23 b2 99 2f
+RIM-COD-SHA1-49: 3f e4 f1 a2 2e ee d1 37 97 4d 64 f0 bf 81 b0 4e 19 db 0d 08
+RIM-COD-SHA1-48: 85 ab ef 84 88 b8 14 7a 1a 11 2c f3 d1 af 45 1b 1a e3 b4 81
+RIM-COD-SHA1-47: a6 e0 2a 82 51 94 e2 12 fe 1b 71 34 86 9d 90 fa 19 50 cb 9b
+RIM-COD-SHA1-46: c6 e6 34 91 7a e3 7b c5 67 b0 9a 84 3b 4f 05 2b de 66 a3 f6
+RIM-COD-SHA1-45: d0 37 e0 bd 54 d5 bf f7 ec 04 36 1f 65 6e 49 c2 df 96 52 c2
+RIM-COD-SHA1-44: 07 14 34 9b 7b a9 62 59 ff cf 25 92 1a c2 b7 47 1b df bf da
+RIM-COD-SHA1-43: 8b 47 be 38 45 ba 6c 76 83 cb c2 d1 20 4d f1 f5 52 07 04 a4
+RIM-COD-SHA1-42: 54 55 39 84 ae 63 ea 1d fc 4f 6b 63 60 fd 17 0c 61 b2 41 aa
+RIM-COD-SHA1-41: cd 1b 34 a3 a5 1a 93 b9 fe f2 f2 55 3d 49 41 16 71 db 17 a8
+RIM-COD-SHA1-40: 73 fd a5 1a 54 ac 17 cc a0 20 8a cf cc 68 50 9b 5d 22 b2 d1
+RIM-COD-SHA1-39: 2c 60 8e 32 08 db 96 b0 0f 47 43 3a 28 d6 4d f3 79 f0 47 b1
+RIM-COD-SHA1-38: 77 23 44 9a 7d d4 0f 51 7a ec 24 fa b6 8f af 38 1a 0f 48 da
+RIM-COD-SHA1-37: cf de 54 05 bc c6 b3 ca 60 5f 30 90 7a 7b 59 ef cc 89 af e1
+RIM-COD-SHA1-36: dd 58 da 93 1d b5 b1 63 39 df 45 90 1f b9 98 75 0e 75 a7 63
+MIDlet-Jar-URL: AIESEC.jar
+RIM-COD-SHA1-35: b9 cb d2 31 44 19 94 11 d8 71 22 4a cd 41 29 a7 2f 87 73 70
+RIM-COD-SHA1-34: 62 75 d3 63 83 0b 29 6a 54 5f 2c 77 5d 67 a8 71 e9 76 22 a4
+RIM-COD-SHA1-33: 72 cb 06 d9 95 b8 9d 8e c6 16 4d 46 3e 75 f2 a4 08 6b d3 b7
+RIM-COD-SHA1-32: a6 88 ce 0e 09 b0 cb eb 70 d9 1c b1 2b fd 72 b8 26 f0 15 6a
+RIM-COD-SHA1-31: a0 95 79 bc f3 8f 8e da 9d 6d cc b1 d0 33 57 be 06 1b a5 00
+RIM-COD-SHA1-30: dd 23 39 9c cb f2 26 a9 7d 4c 77 29 1a c8 1b f3 9b 68 00 40
+RIM-COD-SHA1-9: e5 9a e6 ae 0d 6d 36 ff 87 58 a9 07 99 1a a3 46 d4 5b 88 44
+RIM-COD-SHA1-8: 33 b8 c4 a7 09 f4 2d 21 1e 01 0a 8e d8 be 33 1f 22 bb 72 96
+RIM-COD-SHA1-7: fe e7 45 64 c2 fd b0 be 1e 79 f0 02 f9 ae bf 0d 4d 65 f9 18
+RIM-COD-SHA1-6: 21 61 b0 76 9f 78 a5 ca c8 52 21 2a 37 bc 55 67 84 c2 24 47
+RIM-COD-SHA1-5: de 8b 9d d5 4a cf 4e 75 3e e5 6b b0 39 b2 2c 7c e7 ac b9 b5
+RIM-COD-SHA1-4: 32 18 31 e7 78 38 38 ef 35 10 1f e8 27 fe 78 e8 08 b6 a6 10
+RIM-COD-SHA1-3: 45 6f 14 ac d3 ba af ca 84 fa 10 1a 24 26 d7 a0 fd 8c 69 11
+RIM-COD-SHA1-2: ae 4b 20 e7 48 58 88 01 25 14 73 6f bf 66 fa 5b 20 ae c3 4a
+RIM-COD-SHA1-1: f2 a8 9c cb b1 9b 0d 5c 36 82 b2 07 74 28 e5 c8 83 e5 0d 24
+RIM-COD-SHA1-29: e2 8b 6a 5b 8f 29 77 b5 1c a8 7c 5b f5 63 f0 81 99 d5 be 86
+RIM-COD-SHA1-28: 36 40 cc 00 53 1a 1f 53 87 a8 ec ca c7 18 84 60 33 fc c1 87
+RIM-COD-SHA1-27: 64 cd 19 0e f7 ea 56 99 3c 8d 5c db 03 ec 65 05 23 21 90 95
+RIM-COD-SHA1-26: 15 c1 c6 31 3f f7 b1 4e 80 99 7b ed f9 22 55 d1 b8 6c 64 89
+RIM-COD-SHA1-25: 19 5d b0 42 c0 86 00 ac 3c 88 57 5b c5 72 79 3c 63 a2 7b 24
+RIM-COD-SHA1-24: 5b b9 2d e3 89 8c 6f 65 0c 78 7e 99 10 e9 65 4a ea 1b 2c bd
+RIM-COD-SHA1-23: aa e4 9b 75 0a 4d 0e 2f 77 2b 4d 05 94 e3 c9 a8 4c 17 bd 92
+RIM-COD-SHA1-22: a7 c6 42 c3 d9 fd 15 c0 c1 a7 87 96 94 6c 9a e2 c7 9c 8f ab
+RIM-COD-SHA1-21: 45 5e ee 4f 93 77 4c ec bb 6f 13 8c 24 d4 39 82 fd d1 92 c4
+RIM-COD-SHA1-20: 90 2f 13 e6 b6 fd f9 f4 88 bd 92 e2 3f c3 8e e8 57 06 9d d9
+RIM-COD-Creation-Time: 1392016675
+RIM-COD-SHA1-19: 78 a6 a7 d9 4b 18 70 88 26 b9 32 aa 4b 87 3d 1e 42 71 26 f0
+RIM-COD-SHA1-18: 45 a8 4b aa db 7c 6e 4b 77 f5 2f ef 7a 66 7c 7f f7 dd 75 e5
+RIM-COD-SHA1-17: 2e 75 e1 2a fd 34 40 72 77 61 cb d0 43 4d 83 32 17 98 75 50
+RIM-COD-SHA1-16: f2 2c ce 2a c4 5a c2 0b bc cd 8c 1e 05 5b 7c 31 27 81 65 b5
+RIM-COD-SHA1-15: 7e e8 90 2c 41 5b 01 09 03 ac 2c b0 21 6f 97 c7 2c 3d 83 c5
+RIM-COD-SHA1-14: 78 2e bd 5c 02 5d ab 7c 4e dd e2 19 b2 37 eb 63 7f 5b a1 23
+RIM-COD-SHA1-13: 2b 53 71 32 36 3f 2d ba 2d ed 9f 56 8a 2a 2d 58 47 79 28 9b
+RIM-COD-SHA1-12: d4 3f d5 18 48 22 07 5b 15 46 70 ec da a6 7d a8 9b df db a5
+RIM-COD-SHA1-11: d3 e5 28 60 7a b3 17 29 9f b3 ec 97 72 84 a8 ec ef 6e de c4
+RIM-COD-SHA1-10: 48 c1 39 0c 8d a7 ae b2 12 57 33 ad 51 b2 e9 cc 05 e9 95 bf
